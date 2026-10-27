@@ -12,14 +12,14 @@ Open `index.html` in a modern browser. An internet connection is needed for live
 2. Open the repository's **Settings → Pages**.
 3. Under **Build and deployment**, choose **Deploy from a branch**.
 4. Select the `main` branch and `/(root)`, then save.
-5. After GitHub Pages deploys the site, its URL is usually:
+5. After GitHub Pages deploys the site, open the URL shown in the repository's **Settings → Pages**. For this repository, the expected address is:
 
-   `https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/`
+   <https://sanchit-jaiswal-source.github.io/ISOBAR-Weather-App-/>
 
-Use the URL shown in the repository's **Settings → Pages** as the authoritative link. Add that URL to the repository's **About → Website** field.
+Add the deployed URL to the repository's **About → Website** field.
 
 ## GitHub About suggestion
 
 - **Description:** A polished, responsive weather dashboard with live city search and a five-day forecast, powered by Open-Meteo.
 - **Topics:** `weather`, `open-meteo`, `javascript`, `html`, `css`, `github-pages`
-- **Website:** Your deployed GitHub Pages URL (see above)
+- **Website:** <https://sanchit-jaiswal-source.github.io/ISOBAR-Weather-App-/>
